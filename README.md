@@ -185,29 +185,29 @@ The project was also developed as a five-page Power BI analytical dashboard cove
 ### 1. Budget Overview
 Forecast vs execution across 2024–2025, including total budget execution and major absolute deviations.
 
-![Budget Overview](<img width="1158" height="654" alt="image" src="https://github.com/user-attachments/assets/4520cfb2-073e-4148-b8bd-76ff1cf74140" />)
+![<img width="1158" height="654" alt="image" src="https://github.com/user-attachments/assets/4520cfb2-073e-4148-b8bd-76ff1cf74140" />]
 
 ### 2. Functional Area Analysis
 Plan vs execution and execution-rate comparison across functional budget areas.
 
-![Functional Area Analysis](<img width="1156" height="651" alt="image" src="https://github.com/user-attachments/assets/88216992-868b-4718-92a1-8db2057cdba4" />)
+![<img width="1156" height="651" alt="image" src="https://github.com/user-attachments/assets/88216992-868b-4718-92a1-8db2057cdba4" />]
 
 ### 3. 2024–2025 Change Analysis
 Persistent under-execution and changes in relative deviation and execution rate.
 
-![2024–2025 Change Analysis](<img width="1158" height="653" alt="image" src="https://github.com/user-attachments/assets/cbd54a78-099d-4efe-862c-1dfdeeeb1056" />)
+![<img width="1158" height="653" alt="image" src="https://github.com/user-attachments/assets/cbd54a78-099d-4efe-862c-1dfdeeeb1056" />]
 
 ### 4. Evidence-Based Risk Analysis
 Distribution of execution-risk evidence profiles and detailed evidence comparison.
 
-![Evidence-Based Risk Analysis](<img width="1152" height="651" alt="image" src="https://github.com/user-attachments/assets/166fe2e1-2a47-40cb-bf64-1ebc2a8e2add" />)
+![<img width="1152" height="651" alt="image" src="https://github.com/user-attachments/assets/166fe2e1-2a47-40cb-bf64-1ebc2a8e2add" />]
 
 ### 5. ML Anomaly Stability
 Isolation Forest anomaly detection and stability across 10 random states.
 
-![ML Anomaly Stability](<img width="1156" height="653" alt="image" src="https://github.com/user-attachments/assets/18d99d94-eb2b-470b-ab6f-d0e7e062e623" />)
+![<img width="1156" height="653" alt="image" src="https://github.com/user-attachments/assets/18d99d94-eb2b-470b-ab6f-d0e7e062e623" />]
 
-[View the complete five-page Power BI dashboard PDF](file:///C:/Users/user/Desktop/Shirket_ucun/Layih%C9%99l%C9%99r/Layih%C9%99%202/power%20bi/Layih%C9%99%202.pdf)
+[file:///C:/Users/user/Desktop/Shirket_ucun/Layih%C9%99l%C9%99r/Layih%C9%99%202/power%20bi/Layih%C9%99%202.pdf]
 
 ## Project Links
 
