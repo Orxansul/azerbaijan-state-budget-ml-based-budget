@@ -205,7 +205,7 @@ Distribution of execution-risk evidence profiles and detailed evidence compariso
 ### 5. ML Anomaly Stability
 Isolation Forest anomaly detection and stability across 10 random states.
 
-![<img width="1156" height="653" alt="image" src="https://github.com/user-attachments/assets/18d99d94-eb2b-470b-ab6f-d0e7e062e623" />]
+<img width="1156" height="653" alt="image" src="https://github.com/user-attachments/assets/18d99d94-eb2b-470b-ab6f-d0e7e062e623" />
 
 
 ## Project Links
