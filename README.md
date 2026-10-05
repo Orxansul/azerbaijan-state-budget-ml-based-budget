@@ -207,7 +207,6 @@ Isolation Forest anomaly detection and stability across 10 random states.
 
 ![<img width="1156" height="653" alt="image" src="https://github.com/user-attachments/assets/18d99d94-eb2b-470b-ab6f-d0e7e062e623" />]
 
-[file:///C:/Users/user/Desktop/Shirket_ucun/Layih%C9%99l%C9%99r/Layih%C9%99%202/power%20bi/Layih%C9%99%202.pdf]
 
 ## Project Links
 
